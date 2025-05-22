@@ -7,7 +7,7 @@ public class SwitchExample { // Changed class name
     System.out.println("Press 1 for Hi");
     Scanner sc = new Scanner(System.in);
     int button = sc.nextInt();
- 
+
     switch (button) {
       case 1:
         System.out.println("Hi");
