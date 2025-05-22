@@ -1,5 +1,5 @@
 package basic;
-import java.util.*;
+//import java.util.*;
 
 public class Pattern2 {
     public static void main(String[]args){
@@ -11,10 +11,10 @@ public class Pattern2 {
                 if(i==1||j==1||i==n||j==m){
                     System.out.print(" *");
                 }else{
-                    System.out.print(" ");
+                    System.out.print("  ");
                 }
-                System.out.println();
             }
+                System.out.println();
         }
     }
 }
