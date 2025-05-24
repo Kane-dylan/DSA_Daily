@@ -1,6 +1,4 @@
-package basic;
-
-import java.util.*;
+package JAVA.basic;
 
 import java.util.Scanner;
 

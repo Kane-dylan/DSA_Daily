@@ -1,4 +1,4 @@
-package basic;
+package JAVA.basic;
 
 public class LargestNum {
   public static void main(String[] args) {
