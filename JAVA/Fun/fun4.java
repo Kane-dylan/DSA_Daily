@@ -1,4 +1,4 @@
-package JAVA.basic;
+package JAVA.Fun;
 
 import java.util.Scanner;
 
