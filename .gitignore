@@ -2,9 +2,10 @@
 .idea/
 *.iml
 *.iws
+.vscode/
 
 # Compiler output
-/out/
+/out/*
 target/
 build/
 
